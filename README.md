@@ -20,6 +20,6 @@ The eyes of the person which are to be matched are already stored in the file sy
 * Install the required depedencies in your project virtual environment
     * Python3
     * Numpy
-    * OpenCV - Python
+    * OpenCV-Python
 * Copy the template image to your project directory where the main code sift.py is present.
 * Run the sift.py by exueting the command `python sift.py`.
